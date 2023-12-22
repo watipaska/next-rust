@@ -1,0 +1,2 @@
+# next-rust
+CRUD SERVER IN RUST VITE FRONTEND
